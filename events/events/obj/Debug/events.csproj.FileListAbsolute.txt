@@ -1,0 +1,6 @@
+M:\שבבים ב תשפ''ה\C#\בחנים\תמר אלימלך\events\events\bin\Debug\events.exe.config
+M:\שבבים ב תשפ''ה\C#\בחנים\תמר אלימלך\events\events\bin\Debug\events.exe
+M:\שבבים ב תשפ''ה\C#\בחנים\תמר אלימלך\events\events\bin\Debug\events.pdb
+M:\שבבים ב תשפ''ה\C#\בחנים\תמר אלימלך\events\events\obj\Debug\events.csprojAssemblyReference.cache
+M:\שבבים ב תשפ''ה\C#\בחנים\תמר אלימלך\events\events\obj\Debug\events.exe
+M:\שבבים ב תשפ''ה\C#\בחנים\תמר אלימלך\events\events\obj\Debug\events.pdb
